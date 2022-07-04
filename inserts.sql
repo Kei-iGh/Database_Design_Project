@@ -1,3 +1,7 @@
+/*
+All the data(names, drugs, descriptions, etc) were chosen randomly through a random word/sentence generation.
+*/
+
 INSERT INTO customer
 VALUES 
 ("94319944", "Dalton", "Combs", "2001-01-22", "Dalt_2001@gmail.com", "3846 Hiddenview Drive", "44512", "(918) 463-2647", "M"),
